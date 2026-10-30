@@ -34,4 +34,6 @@ This is a front-end preview, not a connected store. Product search and pincode c
     ├── product and gift-box images
     ├── Mistvale-Tea-logo.jpg
     └── mistvale-tea-garden-hero.png
+
+# hosted on vercel :https://mistvale-tea-storefront.vercel.app/  //this is live link
 ```
